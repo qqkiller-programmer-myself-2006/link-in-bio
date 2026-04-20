@@ -1,0 +1,66 @@
+{
+  "profile": {
+    "name": "IQ — ธีรภัทร เตโช",
+    "nameEn": "IQ — Theeraphat Techo",
+    "role": "Full Stack Developer",
+    "roleEn": "Full Stack Developer",
+    "bio": "รับทำเว็บไซต์ แอปมือถือ และระบบ custom ทุกประเภท\nประสบการณ์จริง • ราคาเป็นมิตร • ส่งงานตรงเวลา",
+    "bioEn": "Web, Mobile & Custom System Development\nReal Experience • Friendly Price • On-time Delivery",
+    "avatar": "/images/avatar.jpg",
+    "verified": true,
+    "fastwork": "https://fastwork.co/user/YOUR_FASTWORK_USERNAME"
+  },
+  "theme": {
+    "background": "#0a0a0f",
+    "accent": "#6366f1",
+    "accentHover": "#818cf8",
+    "cardBg": "rgba(255,255,255,0.05)",
+    "cardBorder": "rgba(255,255,255,0.08)",
+    "textPrimary": "#f8fafc",
+    "textSecondary": "#94a3b8"
+  },
+  "links": [
+    {
+      "id": "fastwork",
+      "labelTh": "รับงาน Fastwork",
+      "labelEn": "Hire me on Fastwork",
+      "url": "https://fastwork.co/user/YOUR_FASTWORK_USERNAME",
+      "icon": "briefcase",
+      "color": "#f59e0b",
+      "featured": true
+    },
+    {
+      "id": "github",
+      "labelTh": "GitHub",
+      "labelEn": "GitHub",
+      "url": "https://github.com/qqkiller-programmer-myself-2006",
+      "icon": "github",
+      "color": "#ffffff",
+      "featured": false
+    },
+    {
+      "id": "line",
+      "labelTh": "Line: @YOUR_LINE_ID",
+      "labelEn": "Line: @YOUR_LINE_ID",
+      "url": "https://line.me/ti/p/YOUR_LINE_ID",
+      "icon": "message-circle",
+      "color": "#06b6d4",
+      "featured": false
+    },
+    {
+      "id": "email",
+      "labelTh": "อีเมล",
+      "labelEn": "Email",
+      "url": "mailto:your@email.com",
+      "icon": "mail",
+      "color": "#10b981",
+      "featured": false
+    }
+  ],
+  "services": [
+    { "icon": "globe", "labelTh": "เว็บไซต์", "labelEn": "Website", "price": "1,500฿+" },
+    { "icon": "smartphone", "labelTh": "แอปมือถือ", "labelEn": "Mobile App", "price": "5,000฿+" },
+    { "icon": "layout", "labelTh": "Landing Page", "labelEn": "Landing Page", "price": "800฿+" },
+    { "icon": "file-text", "labelTh": "ระบบ Custom", "labelEn": "Custom System", "price": "10,000฿+" }
+  ]
+}
