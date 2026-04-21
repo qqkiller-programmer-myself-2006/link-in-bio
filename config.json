@@ -8,7 +8,7 @@
     "bioEn": "Web, Mobile & Custom System Development\nReal Experience • Friendly Price • On-time Delivery",
     "avatar": "/images/avatar.jpg",
     "verified": true,
-    "fastwork": "https://fastwork.co/user/YOUR_FASTWORK_USERNAME"
+    "fastwork": "https://fastwork.co/user/qqkiller-programmer-myself-2006"
   },
   "theme": {
     "background": "#0a0a0f",
@@ -24,7 +24,7 @@
       "id": "fastwork",
       "labelTh": "รับงาน Fastwork",
       "labelEn": "Hire me on Fastwork",
-      "url": "https://fastwork.co/user/YOUR_FASTWORK_USERNAME",
+      "url": "https://fastwork.co/user/qqkiller-programmer-myself-2006",
       "icon": "briefcase",
       "color": "#f59e0b",
       "featured": true
@@ -40,18 +40,27 @@
     },
     {
       "id": "line",
-      "labelTh": "Line: @YOUR_LINE_ID",
-      "labelEn": "Line: @YOUR_LINE_ID",
-      "url": "https://line.me/ti/p/YOUR_LINE_ID",
+      "labelTh": "Line: kcygamer",
+      "labelEn": "Line: kcygamer",
+      "url": "https://line.me/ti/p/kcygamer",
       "icon": "message-circle",
       "color": "#06b6d4",
+      "featured": false
+    },
+    {
+      "id": "phone",
+      "labelTh": "โทร: 090-980-9420",
+      "labelEn": "Tel: 090-980-9420",
+      "url": "tel:0909809420",
+      "icon": "phone",
+      "color": "#22d3ee",
       "featured": false
     },
     {
       "id": "email",
       "labelTh": "อีเมล",
       "labelEn": "Email",
-      "url": "mailto:your@email.com",
+      "url": "mailto:qqkiller.programmer.myself.2006@gmail.com",
       "icon": "mail",
       "color": "#10b981",
       "featured": false
